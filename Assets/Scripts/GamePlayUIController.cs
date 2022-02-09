@@ -14,6 +14,5 @@ public class GamePlayUIController : MonoBehaviour
     public void HomeButton()
     {
         SceneManager.LoadScene("MainMenu");
-        int test;
     }    
 }
